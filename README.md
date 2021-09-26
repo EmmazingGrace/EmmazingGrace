@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Biomedical Engineering.
 - 🌱 I’m currently learning ... life.
 - 💞️ I’m looking to collaborate on ... studies. 
-- 📫 How to reach me ... email.
+- 📫 How to reach me ... email: egratliff21@ehc.edu.
 
 <!---
 EmmazingGrace/EmmazingGrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
